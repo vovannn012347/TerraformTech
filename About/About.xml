@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Terraform Technology</name>
-  <author>Vovik</author>
+  <author>Vovik</author>  
+  <packageId>Vovikus.TerraformTechnology</packageId>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
-  <packageId>Vovikus.TerraformTechnology</packageId>
   <loadAfter>
 	<li>brrainz.harmony</li>
   </loadAfter>
